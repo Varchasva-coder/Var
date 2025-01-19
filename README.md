@@ -1,2 +1,2 @@
-# Var
+# Varchasva
 My first Git repository.
